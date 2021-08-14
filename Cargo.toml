@@ -1,0 +1,15 @@
+[package]
+name = "rrpack"
+version = "0.1.0"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/rillrate/rillrate"
+homepage = "https://github.com/rillrate/rillrate"
+documentation = "https://docs.rs/rillrate/"
+license = "BUSL-1.1"
+readme = "README.md"
+keywords = ["logging"]
+categories = ["development-tools::debugging"]
+description = "Core types for packs of the rillrate."
+
+[dependencies]
