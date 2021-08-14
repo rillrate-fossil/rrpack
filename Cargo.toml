@@ -1,11 +1,11 @@
 [package]
 name = "rrpack"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
 edition = "2018"
-repository = "https://github.com/rillrate/rillrate"
-homepage = "https://github.com/rillrate/rillrate"
-documentation = "https://docs.rs/rillrate/"
+repository = "https://github.com/rillrate/rrpack"
+homepage = "https://github.com/rillrate/rrpack"
+documentation = "https://docs.rs/rrpack/"
 license = "BUSL-1.1"
 readme = "README.md"
 keywords = ["logging"]
